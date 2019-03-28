@@ -1,13 +1,13 @@
-package com.zjj.wechatp1;
+package org.zpha.weixin;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Wechatp1Application {
+public class WeixinApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Wechatp1Application.class, args);
+		SpringApplication.run(WeixinApplication.class, args);
 	}
 
 }
