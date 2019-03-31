@@ -4,8 +4,4 @@ spring.datasource:
    username: kemao_1
    password: 1234
 
-<<<<<<< HEAD
-server.port: 8009
-=======
-server.port: 8010
->>>>>>> refs/remotes/origin/master
+server.port: 8022
